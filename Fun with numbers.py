@@ -1,0 +1,7 @@
+  def main()
+      print("Welcome to Fun With Numbers")
+      print("Choose from the menu below")
+      print(" (A)Check number features")
+      print(" (B) Plot numbers")
+      print(" (C) Check overall stats")
+      print("\n (X) Save and exit")
