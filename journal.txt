@@ -1,0 +1,6 @@
+14/2/2024
+Analysed the fun with numbers app and make notes
+Set up the project repository
+Created a new Python file and started coding the ain UI
+
+16/2/2024
