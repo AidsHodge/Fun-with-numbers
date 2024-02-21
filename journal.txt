@@ -4,3 +4,13 @@ Set up the project repository
 Created a new Python file and started coding the ain UI
 
 16/2/2024
+Created a codespace and added Pylint
+Removed errors from Pylint
+Declared 'choice' to link Main and to sub-routines
+
+
+19/2/2024
+Added extras on the UI on the main routine
+Main uses user input and opes the 3 sub-routines or quits the progrma
+Created the 3 sub-routines
+Added loop to handle the exit
