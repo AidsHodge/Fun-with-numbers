@@ -1,16 +1,8 @@
-14/2/2024
-Analysed the fun with numbers app and make notes
-Set up the project repository
-Created a new Python file and started coding the ain UI
+19/05/2024
+had to start from scratch original journal and Fun_With_Numbers was deleted
 
-16/2/2024
-Created a codespace and added Pylint
-Removed errors from Pylint
-Declared 'choice' to link Main and to sub-routines
-
-
-19/2/2024
-Added extras on the UI on the main routine
-Main uses user input and opes the 3 sub-routines or quits the progrma
-Created the 3 sub-routines
-Added loop to handle the exit
+23/05/2024
+changed colour of text
+added square root function
+added prime factors function
+added number divisible function
